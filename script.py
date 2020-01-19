@@ -1,4 +1,3 @@
-import numpy as np
-
 a = int(input())
-print(np.pow(a,2))
+print(a**2)
+
