@@ -6,6 +6,10 @@
 *italics*
 
 ----
+
 |a|b|
 |c|d|
+
 ----
+
+Hello!
